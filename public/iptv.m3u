@@ -1,0 +1,893 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="France24French.fr" tvg-logo="https://i.imgur.com/u8N6uoj.png" group-title="News",France 24 French (1080p)
+https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-id="RTI1.ci" tvg-logo="https://i.imgur.com/TybQZQS.png" group-title="General",RTI 1 (1080p) [Not 24/7]
+https://cdnapisec.kaltura.com/p/6234172/sp/623417200/playManifest/entryId/1_j70d7pdb/protocol/https/format/applehttp/flavorIds/1_kf707iye,1_b2viazbf,1_d8op3xun/a.m3u8?uiConfId=56536812&playSessionId=9e64fb2e-a1be-0a67-513b-4625b346f2df:9da939d4-43d1-2b9f-a975-e5ac3437106b&referrer=aHR0cHM6Ly93d3cucnRpLmNpL3J0aTEvZGlyZWN0&clientTag=html5:v7.180
+#EXTINF:-1 tvg-id="RTI2.ci" tvg-logo="https://i.imgur.com/73ueXrp.png" group-title="General",RTI 2 (1080p) [Not 24/7]
+https://cdnapisec.kaltura.com/p/6234172/sp/623417200/playManifest/entryId/1_07t3gjd6/protocol/https/format/applehttp/flavorIds/1_dcuvmv0j,1_uusq6c6n,1_qj5ix166/a.m3u8?uiConfId=56536812&playSessionId=16e20ddb-b898-8597-53c3-76c73761a478:544296da-c1a8-f857-4773-4b4cb9b2a3e1&referrer=aHR0cHM6Ly93d3cucnRpLmNpL3J0aTIvZGlyZWN0&clientTag=html5:v7.180
+#EXTINF:-1 tvg-id="RTILa3.ci" tvg-logo="https://i.imgur.com/HdNshgF.png" group-title="Music;Sports",RTI La 3 (1080p) [Not 24/7]
+https://cdnapisec.kaltura.com/p/6234172/sp/623417200/playManifest/entryId/1_ad7taytx/protocol/https/format/applehttp/flavorIds/1_pqmvtyx2,1_wrwofqcj,1_sl3xxzzg/a.m3u8?uiConfId=56536812&playSessionId=d05f5c30-3e55-3f7a-5993-29ad59dabf7b:b4b6b1fc-1e6c-0fd1-1f59-1f2149f131a7&referrer=aHR0cHM6Ly93d3cucnRpLmNpL2xhMy9kaXJlY3Q=&clientTag=html5:v7.174
+#EXTINF:-1 tvg-id="NCI.ci" tvg-logo="https://i.imgur.com/I3pv69r.png" group-title="General",NCI (1080p)[Not 24/7]
+https://cdnapisec.kaltura.com/p/5571652/sp/557165200/playManifest/entryId/1_2gnrfyb6/protocol/https/format/applehttp/flavorIds/1_ei5378sr,1_3ahuyat1,1_hbf7spgv,1_16qga8l7,1_8jv5h53u,1_9wpnjnt6/ks/djJ8NTU3MTY1MnwEyR5qBW6PvKVIDK1hXZgXFK75sNNhNJ2OJPtXuV7Yqv-ogqLMtY0RNTW2DGlXylaR_9f3ytx94UBkDlWDox1CP3nVJFHOtfi8-9HauJ7eWRPHi368LaCWtaZdmctDCnzwPrSGHGDvDP1SH-oH7iD9/a.m3u8?playSessionId=d648fbc3-31bd-929a-d27d-f874fe88be76:1817147a-7749-e566-6e4c-cfe09a47ba31&referrer=aHR0cHM6Ly93d3cubmNpLmNpL2RpcmVjdA==&clientTag=html5:v7.190
+#EXTINF:-1 tvg-id="LifeTV.ci" tvg-logo="https://i.imgur.com/iz9qHZk.png" group-title="General",Life TV
+https://strhls.streamakaci.tv/str_lifetv_lifetv/str_lifetv_multi/playlist.m3u8
+#EXTINF:-1 tvg-id="Africa24.fr" tvg-logo="https://i.imgur.com/YWIJdai.png" group-title="Actualités",Afrique 24 (540p)
+https://edge12.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
+#EXTINF:-1 tvg-id="Africa24English.fr" tvg-logo="https://i.imgur.com/YWIJdai.png" group-title="Actualités",Africa 24 Anglais (1080p)
+https://edge17.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
+#EXTINF:-1 tvg-id="RTFrance.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/RT-France-logo.svg/512px-RT-France-logo.svg.png" group-title="News",RT France (1080p) [Geo-blocked]
+https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
+#EXTINF:-1 tvg-id="Business24Africa.ci" tvg-logo="https://i.imgur.com/zZFl3vy.png" group-title="Entreprise",Business 24 Afrique (480p)
+https://cdn-globecast.akamaized.net/live/eds/business24_tv/hls_video/index.m3u8
+#EXTINF:-1 tvg-id="NTV.ci" tvg-logo="https://i.imgur.com/Lj4WvXZ.png" group-title="Général",NTV Afrique (1080p) [Pas 24/7]
+https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8
+#EXTINF:-1 tvg-id="NovelaChannel.ci" tvg-logo="https://i.ibb.co/V3pfjfB/novela-channel-telepack.jpg" group-title="Série",Chaîne Novela ( 720p) [Pas 24h/24 et 7j/7]
+https://video1.getstreamhosting.com:1936/8284/8284/playlist.m3u8
+#EXTINF:-1 tvg-id="NovelaChannel.ci" tvg-logo="https://i.ibb.co/V3pfjfB/novela-channel-telepack.jpg" group-title="Series",Novela Channel (720p) [Not 24/7]
+https://video1.getstreamhosting.com:1936/8284/8284/playlist.m3u8
+#EXTINF:-1 tvg-id="RefletTV.ci" tvg-logo="https://i.imgur.com/EauXR22.png" group-title="Indéfini",REFLET TV (1080p)
+https://edge-a3.evrideo.tv/8f37c9f0-fe22-44f4-b64a-76ad11730daf_1000026630_HLS/manifest.m3u8
+#EXTINF:-1 tvg-id="EcclesiaTV.ci" tvg-logo="https://i.imgur.com/mgabVFd.png" group-title="Religieux",Ecclesia TV (720p)
+https://helga.iptv2022.com/sh/Ecclesia_TV/index.m3u8
+#EXTINF:-1 tvg-id="GoldenSweetTV.ci" tvg-logo="https://i.imgur.com/uRFV8wk.jpg" group-title="Général",Golden Sweet TV (720p)
+https://helga.iptv2022.com/sh/GOLDEN_SWEET_TV/index.m3u8
+#EXTINF:-1 tvg-id="GuideLoveTV.ci" tvg-logo="https://i.ibb.co/9gS2Y4G/guidelove-logo.png" group-title="Style de vie",Guide Love TV (720p)
+https://video1.getstreamhosting.com:1936/8056/8056/playlist.m3u8
+#EXTINF:-1 tvg-id="IvoireChannel.ci" tvg-logo="https://i.imgur.com/gKbNqQv.png" group-title="Musique",Ivoire Channel (720p)
+https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
+#EXTINF:-1 tvg-id="LMTVFrench.ci" tvg-logo="https://i.imgur.com/FVnq2cQ.png" group-title="Religieux",LMTV French (720p) [Pas 24/7]
+https://video1.getstreamhosting.com:1936/8282/8282/playlist.m3u8
+#EXTINF:-1 tvg-id="PassionNovelas.ci" tvg-logo="https://i.imgur.com/boo9jmf.png" group-title="Divertissement",Passion Novelas
+https://d219tvyafu2vka.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-csm4hzxgjueax/index.m3u8
+#EXTINF:-1 tvg-id="TVBRICSAfrica.za" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/666abcee75.jpeg" group-title="Général",TV BRICS Afrique (1080p)
+https://cdn.freevisiontv.co.za/sttv/smil:brics.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVIAfrica.pt" tvg-logo="https://i.ibb.co/vBbSHB4/Tvi-africa.png" group-title="Général",TVI África (480p) [Pas 24/7]
+https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
+#EXTINF:-1 tvg-id="A2iMusic.sn" tvg-logo="https://i.imgur.com/Fykhzxh.jpg" group-title="Music",A2i Music (720p) [Not 24/7]
+https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="A2iReligion.sn" tvg-logo="https://i.imgur.com/54WrwyN.jpg" group-title="Religious",A2i Religion (720p) [Not 24/7]
+https://stream.sen-gt.com/A2iReligion/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="A2iTV.it" tvg-logo="https://i.imgur.com/YlDFir7.jpg" group-title="General",A2i TV (1080p)
+https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="A12TV.fr" tvg-logo="https://i.imgur.com/JgnjgvF.png" group-title="General",A12 TV (720p)
+https://video1.getstreamhosting.com:1936/8420/8420/playlist.m3u8
+#EXTINF:-1 tvg-id="APlusIvoire.ci" tvg-logo="https://i.imgur.com/yOW0vyP.png" group-title="Culture",A+ Ivoire (720p)
+http://69.64.57.208/atv/playlist.m3u8
+#EXTINF:-1 tvg-id="AfricableTV.ml" tvg-logo="https://i.imgur.com/2ZpneNv.png" group-title="General",Africable TV (360p)
+http://69.64.57.208/africable/playlist.m3u8
+#EXTINF:-1 tvg-id="AfrocultureTV.ci" tvg-logo="https://i.imgur.com/bjaZ3kO.png" group-title="Culture",Afroculture TV (1080p)
+https://helga.iptv2022.com/sh/Afroculture/index.m3u8
+#EXTINF:-1 tvg-id="AlFaydaTV.sn" tvg-logo="https://i.imgur.com/FUb56OW.jpeg" group-title="Religious",Al Fayda TV (720p)
+https://helga.iptv2022.com/sh/AL_AYDA_TV_DAKAR/index.m3u8
+#EXTINF:-1 tvg-id="AlphaetOmegaTV.ci" tvg-logo="https://i.imgur.com/s9EgQQI.jpg" group-title="Religious",Alpha et Omega TV (720p)
+https://video1.getstreamhosting.com:1936/8318/8318/playlist.m3u8
+#EXTINF:-1 tvg-id="CanaldelAssemblee.ca" tvg-logo="https://i.imgur.com/jAtq0U8.png" group-title="Undefined",Assemblée Nationale du Québec
+https://cdn3.wowza.com/5/SVEySlNEQ0FOWXlS/diffusion/canal17/playlist.m3u8
+#EXTINF:-1 tvg-id="BIPTV.fr" tvg-logo="https://i.imgur.com/YQjm4U5.png" group-title="Undefined",BIP TV (480p) [Not 24/7]
+https://biptv.tv/live/biptvstream_orig/index.m3u8
+#EXTINF:-1 tvg-id="BrionnaisTV.fr" tvg-logo="https://i.imgur.com/y94bhqX.jpg" group-title="General",Brionnais TV (720p)
+https://stream2.mandarine.media/brionnaistv/brionnaistv/playlist.m3u8
+#EXTINF:-1 tvg-id="BX1.be" tvg-logo="https://i.imgur.com/0OkSa6c.png" group-title="Undefined",BX1 (720p) [Not 24/7]
+https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
+#EXTINF:-1 tvg-id="CFTUDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Savoir_tv_logo.png" group-title="Education",Canal Savoir (360p)
+https://hls.savoir.media/live/stream.m3u8
+#EXTINF:-1 tvg-id="CannesLerinsTV.fr" tvg-logo="https://i.imgur.com/atlgnum.png" group-title="General",Cannes Lérins TV (1080p)
+https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8
+#EXTINF:-1 tvg-id="Carac1.ch" tvg-logo="https://www.bejart.ch/wp-content/uploads//carac-400x304.png" group-title="Entertainment",Carac 1 (1080p)
+https://edge13.vedge.infomaniak.com/livecast/ik:event/manifest.m3u8
+#EXTINF:-1 tvg-id="CaviTV.gn" tvg-logo="https://i.imgur.com/kwXzUwd.png" group-title="General",Cavi TV (400p)
+https://helga.iptv2022.com/Cavi_TV/index.m3u8
+#EXTINF:-1 tvg-id="CBCTV.cd" tvg-logo="https://i.imgur.com/zmsDo6X.png" group-title="General",CBC TV (720p)
+https://stream.berosat.live:19360/cbc-tv/cbc-tv.m3u8
+#EXTINF:-1 tvg-id="CCPVTelevision.cd" tvg-logo="https://i.imgur.com/VRhkEqz.jpg" group-title="Religious",CCPV TV (1080p)
+https://tnt-television.com/CCPV-TV/index.m3u8
+#EXTINF:-1 tvg-id="CheriflaTV.ml" tvg-logo="https://i.imgur.com/V8nuoEW.png" group-title="General",Cherifla TV (360p)
+http://69.64.57.208/cherifla/playlist.m3u8
+#EXTINF:-1 tvg-id="CNews.fr" tvg-logo="https://i.imgur.com/sSNhk2g.png" group-title="News",CNews (1080p) [Geo-blocked]
+https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/CNews.m3u8
+#EXTINF:-1 tvg-id="DiamaTV.sn" tvg-logo="https://i.imgur.com/ARJM3s5.png" group-title="General",Diama TV (1080p)
+https://helga.iptv2022.com/Diama_TV/index.m3u8
+#EXTINF:-1 tvg-id="DiamagueneTV.sn" tvg-logo="https://i.imgur.com/K8EGFnv.png" group-title="General",Diamaguene TV (480p) [Not 24/7]
+https://helga.iptv2022.com/sh/DIAMAGUENE_TV/index.m3u8
+#EXTINF:-1 tvg-id="Direct7TV.tg" tvg-logo="https://i.imgur.com/oPlZMc0.jpeg" group-title="General",Direct 7 TV (720p)
+https://helga.iptv2022.com/DIRECT__7/index.m3u8
+#EXTINF:-1 tvg-id="DivinAmourTV.ci" tvg-logo="https://i.imgur.com/UUSAQET.png" group-title="Religious",Divin Amour TV (720p)
+https://voozmedia.fun/divinamourtv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="EcclesiaTV.ci" tvg-logo="https://i.imgur.com/mgabVFd.png" group-title="Religious",Ecclesia TV (720p)
+https://helga.iptv2022.com/sh/Ecclesia_TV/index.m3u8
+#EXTINF:-1 tvg-id="EdenCityTV.cd" tvg-logo="https://i.imgur.com/t6wlmal.jpeg" group-title="Religious",Eden City TV (720p)
+https://tnt-television.com/EDEN_CITY_TV/index.m3u8
+#EXTINF:-1 tvg-id="EdenTV.bj" tvg-logo="https://i.imgur.com/4ClnG0x.png" group-title="General",Eden TV (540p) [Not 24/7]
+https://rtmp.edentv.bj/hls/stream.m3u8
+#EXTINF:-1 tvg-id="EGGPROTV.cd" tvg-logo="https://i.imgur.com/rygp3BA.jpg" group-title="General",EGG PRO TV (720p)
+https://helga.iptv2022.com/EGG_PRO_TV/index.m3u8
+#EXTINF:-1 tvg-id="EspaceTV.gn" tvg-logo="https://i.imgur.com/R5tbzFI.png" group-title="News",Espace TV (1080p)
+https://edge11.vedge.infomaniak.com/livecast/ik:espacetv/manifest.m3u8
+#EXTINF:-1 tvg-id="EspoirTV.cd" tvg-logo="https://i.imgur.com/sBsAHqb.jpeg" group-title="General",Espoir TV (240p)
+https://helga.iptv2022.com/sh/Espoir_TV/index.m3u8
+#EXTINF:-1 tvg-id="EVITV.cd" tvg-logo="https://i.ibb.co/PNXggHL/evi-tv-live-vipotv-democratic-Congo.png" group-title="Entertainment",EVI TV (720p)
+https://stream.berosat.live:19360/evi-tv/evi-tv.m3u8
+#EXTINF:-1 tvg-id="FideleTV.us" tvg-logo="https://i.ibb.co/YtBZ0Lc/FIDELE-TV.png" group-title="Entertainment",Fidele TV (480p)
+https://59d39900ebfb8.streamlock.net/FIDELETV/FIDELETV/playlist.m3u8
+#EXTINF:-1 tvg-id="ForYouTV.cm" tvg-logo="https://i.imgur.com/FgEDzTZ.png" group-title="News",For You TV (480p)
+https://stream.az-multimedia.com:3793/live/foryoutvlive.m3u8
+#EXTINF:-1 tvg-id="France2.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/512px-France_2_2018.svg.png" group-title="General",France 2 (1080p)
+http://69.64.57.208/france2/mono.m3u8
+#EXTINF:-1 tvg-id="France5.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/512px-France_5_2018.svg.png" group-title="General",France 5 (1080p)
+http://69.64.57.208/france5/mono.m3u8
+#EXTINF:-1 tvg-id="France24French.fr" tvg-logo="https://i.imgur.com/u8N6uoj.png" group-title="News",France 24 French (1080p)
+https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-id="FUSIONTV.mq" tvg-logo="https://i.imgur.com/WMrYEgH.png" group-title="Documentary",FUSION TV (1080p)
+https://edge20.vedge.infomaniak.com/livecast/ik:fusiontv/manifest.m3u8
+#EXTINF:-1 tvg-id="FX2.fr" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fx-2-fr.png" group-title="Entertainment",FX2 Farsi
+https://toonixhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="GeopolisTV.cd" tvg-logo="https://i.imgur.com/WzGAIYe.jpg" group-title="News",Géopolis TV (240p)
+https://tnt-television.com/Geopolis_tv/index.m3u8
+#EXTINF:-1 tvg-id="GoldenSweetTV.ci" tvg-logo="https://i.imgur.com/uRFV8wk.jpg" group-title="General",Golden Sweet TV (720p)
+https://helga.iptv2022.com/sh/GOLDEN_SWEET_TV/index.m3u8
+#EXTINF:-1 tvg-id="GrandYoffTV.sn" tvg-logo="https://i.imgur.com/Gbiybwj.png" group-title="General",Grand Yoff TV (720p)
+https://helga.iptv2022.com/sh/Grand_Yoff_TV/index.m3u8
+#EXTINF:-1 tvg-id="GuideLoveTV.ci" tvg-logo="https://i.ibb.co/9gS2Y4G/guidelove-logo.png" group-title="Lifestyle",Guide Love TV (720p)
+https://video1.getstreamhosting.com:1936/8056/8056/playlist.m3u8
+#EXTINF:-1 tvg-id="GuineeTV1.gn" tvg-logo="https://i.imgur.com/X1AUjHr.png" group-title="Entertainment",Guinée TV1 (720p) [Not 24/7]
+https://helga.iptv2022.com/GTV/index.m3u8
+#EXTINF:-1 tvg-id="HANDICAPTV.fr" tvg-logo="https://i.imgur.com/vXbAeD0.png" group-title="Lifestyle",HANDICAP TV France
+https://srv.webtvmanager.fr:3697/stream/play.m3u8
+#EXTINF:-1 tvg-id="HMIPROMZNEWS.us" tvg-logo="https://i.imgur.com/gwPaw3v.png" group-title="Music",HMI PROMZ NEWS (720p)
+https://video1.getstreamhosting.com:1936/8326/8326/playlist.m3u8
+#EXTINF:-1 tvg-id="IdentiteTeleCaraibes.mq" tvg-logo="https://i.imgur.com/Atsf6Cd.png" group-title="Music",Identité Télé Caraïbes (548p)
+https://vdo2.pro-fhi.net:3769/stream/play.m3u8
+#EXTINF:-1 tvg-id="IvoireChannel.ci" tvg-logo="https://i.imgur.com/gKbNqQv.png" group-title="Music",Ivoire Channel (720p)
+https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
+#EXTINF:-1 tvg-id="JapanimTV.be" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/6b97e19f-4243-4d48-b794-ff8cf54d795f-profile_image-300x300.png" group-title="Animation;Kids",Japanim TV (1080p)
+https://foxkidstv.be:3369/stream/play.m3u8
+#EXTINF:-1 tvg-id="JustepourRire.fr" tvg-logo="https://i.imgur.com/VbqcKn3.png" group-title="Comedy",Juste pour Rire
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60afa1508284e60007163c08/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e05edb3-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a0ee8bde-7a09-45e2-b51d-4cf3012304cd
+#EXTINF:-1 tvg-id="KabackTV.gn" tvg-logo="https://i.imgur.com/Q6emZEw.png" group-title="General",Kaback TV (720p)
+https://guineetvdirect.online:3842/live/kabacktvlive.m3u8
+#EXTINF:-1 tvg-id="KC2.rw" tvg-logo="https://i.imgur.com/PsYPzNc.png" group-title="Entertainment",KC2 (720p) [Not 24/7]
+http://197.243.19.131:1935/kc2/kc2/chunklist.m3u8
+#EXTINF:-1 tvg-id="KeurNdananeTV.sn" tvg-logo="https://i.imgur.com/pxQkYG7.jpeg" group-title="Lifestyle",Keur Ndanane TV (720p)
+https://helga.iptv2022.com/sh/KN_TV/index.m3u8
+#EXTINF:-1 tvg-id="KinDirectTV.cd" tvg-logo="https://i.imgur.com/GuUsGMj.png" group-title="General",Kin Direct TV (320p)
+https://helga.iptv2022.com/sh/Kin_Direct_Tv/index.m3u8
+#EXTINF:-1 tvg-id="LBFDRTV.cd" tvg-logo="https://i.imgur.com/buMvLJc.jpeg" group-title="Religious",LBFD RTV (1080p)
+https://tnt-television.com/LBFD_RTV/index.m3u8
+#EXTINF:-1 tvg-id="LeFigaroTVIledeFrance.fr" tvg-logo="https://i.imgur.com/a8RuRUQ.png" group-title="General",Le Figaro IDF (1080p)
+https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
+#EXTINF:-1 tvg-id="LegislativeAssemblyofOntario.ca" tvg-logo="https://i.imgur.com/n24MrsX.png" group-title="Legislative",Legislative Assembly of Ontario
+https://temp3.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
+#EXTINF:-1 tvg-id="LeralTV.sn" tvg-logo="https://i.imgur.com/BUxzHmO.png" group-title="General",Leral TV (480p)
+https://helga.iptv2022.com/sh/Leral/index.m3u8
+#EXTINF:-1 tvg-id="LMTVFrench.ci" tvg-logo="https://i.imgur.com/FVnq2cQ.png" group-title="Religious",LMTV French (720p) [Not 24/7]
+https://video1.getstreamhosting.com:1936/8282/8282/playlist.m3u8
+#EXTINF:-1 tvg-id="LN24.be" tvg-logo="https://i.imgur.com/1EkZRwn.png" group-title="News",LN24
+https://live-ln24.digiteka.com/1911668011/index.m3u8
+#EXTINF:-1 tvg-id="LNTV.tg" tvg-logo="https://i.imgur.com/RVvsezV.jpeg" group-title="Religious",LNTV (720p)
+https://helga.iptv2022.com/sh/LNTV/index.m3u8
+#EXTINF:-1 tvg-id="LougaTV.sn" tvg-logo="https://i.ibb.co/xXZ5kFy/unnamed.jpg" group-title="General",Louga TV (480p)
+https://stream.sen-gt.com/Mbacke/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="ManaEgliseOnline.pt" tvg-logo="https://i.imgur.com/xQYly8O.png" group-title="Religious",Maná Église Online (1080p) [Not 24/7]
+https://w2.manasat.com/eglise-online/smil:eglise-online.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Matele.be" tvg-logo="https://i.imgur.com/rw72POr.png" group-title="General",MaTele (1080p) [Not 24/7]
+https://live.matele.be/hls/live.m3u8
+#EXTINF:-1 tvg-id="MetanoiaTV.cd" tvg-logo="https://i.imgur.com/Bf00ttL.png" group-title="Religious",Metanoia TV (720p)
+https://tnt-television.com/METANOIA-STREAM1/index.m3u8
+#EXTINF:-1 tvg-id="MishapiVoiceTV.cd" tvg-logo="https://i.imgur.com/GfOy2ok.png" group-title="Religious",Mishapi Voice TV (1080p)
+https://tnt-television.com/MISHAPI-STREAM1/index.m3u8
+#EXTINF:-1 tvg-id="NEK4Culture.bj" tvg-logo="https://i.imgur.com/Sjt4zzS.jpeg" group-title="Culture",NEK4 Culture (480p)
+https://helga.iptv2022.com/sh/NEK4/index.m3u8
+#EXTINF:-1 tvg-id="NTITV.cg" tvg-logo="https://i.imgur.com/Dguj1eP.jpeg" group-title="General",NTI TV (720p)
+https://helga.iptv2022.com/NTI_Television/index.m3u8
+#EXTINF:-1 tvg-id="NumericaTV.cd" tvg-logo="https://i.imgur.com/ZUPJJ59.png" group-title="General",Numerica TV (1080p)
+https://tnt-television.com/NUMERICA/index.m3u8
+#EXTINF:-1 tvg-id="ORTM1.ml" tvg-logo="https://i.imgur.com/eKUpcls.png" group-title="General",ORTM 1 (540p) [Not 24/7]
+http://69.64.57.208/ortm/playlist.m3u8
+#EXTINF:-1 tvg-id="P2MTV.fr" tvg-logo="https://i.imgur.com/TrecSeG.png" group-title="Music",P2M TV (720p)
+https://vdo2.pro-fhi.net:3207/stream/play.m3u8
+#EXTINF:-1 tvg-id="PassionNovelas.ci" tvg-logo="https://i.imgur.com/boo9jmf.png" group-title="Entertainment",Passion Novelas
+https://d219tvyafu2vka.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-csm4hzxgjueax/index.m3u8
+#EXTINF:-1 tvg-id="PersianaRap.fr" tvg-logo="https://i.ibb.co/ThGc7d5/Persiana-Rap.png" group-title="Music",Persiana Rap
+https://raphls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PlayTV.cm" tvg-logo="https://i.imgur.com/1dmBqpf.png" group-title="Music",Play TV (720p) [Not 24/7]
+http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8
+#EXTINF:-1 tvg-id="ProximiteWebTV.ga" tvg-logo="https://i.imgur.com/vu14I3r.png" group-title="General",Proximité Web TV (480p) [Not 24/7]
+https://helga.iptv2022.com/sh/PROXIMITE_WEB_TV/index.m3u8
+#EXTINF:-1 tvg-id="PSTVHD.cd" tvg-logo="https://i.imgur.com/xQlkuAa.png" group-title="General",PSTV HD (480p)
+https://tnt-television.com/PSTV_TVHD/index.m3u8
+#EXTINF:-1 tvg-id="RadioTele4VEH.ht" tvg-logo="https://i.imgur.com/AnOjqaS.png" group-title="Religious",Radio Télé 4VEH (720p)
+https://uni01rtmp.tulix.tv/4vehtv/4vehtv-firetv/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioTeleEvangileSansLimite.ca" tvg-logo="https://i.imgur.com/CL32kFA.png" group-title="Religious",Radio Tele Evangile Sans Limite
+https://5790d294af2dc.streamlock.net/8124/8124/chunklist.m3u8
+#EXTINF:-1 tvg-id="RadioTelePlanetCompas.ht" tvg-logo="https://i.imgur.com/ddb4lsa.png" group-title="News",Radio Tele Planet Compas (720p) [Not 24/7]
+https://5dcab9aed5331.streamlock.net/mrcompas1/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioTeleStanneCharitab.ht" tvg-logo="https://i.ibb.co/wB0brbD/unnamed.png" group-title="General",Radio Télé Stanne Charitab (480p)
+https://59d39900ebfb8.streamlock.net/radiotelestannecharitab/radiotelestannecharitab/playlist.m3u8
+#EXTINF:-1 tvg-id="RMCStory.fr" tvg-logo="https://i.imgur.com/h53nsyJ.png" group-title="Undefined",RMC Story (1080p)
+https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8
+#EXTINF:-1 tvg-id="RTJVA.tg" tvg-logo="https://i.imgur.com/Ja3HVLB.jpg" group-title="Religious",RT JVA (720p) [Not 24/7]
+https://cdn140m.panaccess.com/HLS/RTVJA/index.m3u8
+#EXTINF:-1 tvg-id="RTNC.cd" tvg-logo="https://i.imgur.com/oVXO950.jpeg" group-title="General",RTNC (540p)
+https://tnt-television.com/rtnc_HD/index.m3u8
+#EXTINF:-1 tvg-id="RTS1.sn" tvg-logo="https://i.imgur.com/HHGktpF.png" group-title="General",RTS 1 (720p)
+http://69.64.57.208/rts1/playlist.m3u8
+#EXTINF:-1 tvg-id="RTS2.sn" tvg-logo="https://i.imgur.com/YypHsF4.png" group-title="Entertainment",RTS 2 (720p)
+http://69.64.57.208/rts2/playlist.m3u8
+#EXTINF:-1 tvg-id="SenTV.sn" tvg-logo="https://i.imgur.com/1BLXnHB.png" group-title="Undefined",Sen TV (360p)
+http://69.64.57.208/sentv/playlist.m3u8
+#EXTINF:-1 tvg-id="SoleilLevantTV.bj" tvg-logo="https://i.imgur.com/XpFOcsr.png" group-title="General",Soleil Levant TV (720p)
+https://helga.iptv2022.com/sh/SOLEIL_LEVANT_TV/index.m3u8
+#EXTINF:-1 tvg-id="SportenFrance.fr" tvg-logo="https://i.imgur.com/1IXQoWq.png" group-title="Sports",Sport En France (1080p)
+https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
+#EXTINF:-1 tvg-id="SYNTYTV.cg" tvg-logo="https://i.imgur.com/Zlehose.jpeg" group-title="General",SYNTY TV (720p)
+https://helga.iptv2022.com/sh/SYNTY_TV/index.m3u8
+#EXTINF:-1 tvg-id="TeleLouange.ht" tvg-logo="https://i.imgur.com/DjnMUuL.png" group-title="Religious",Tele Louange (1080p)
+https://5790d294af2dc.streamlock.net/8124/8124/playlist.m3u8
+#EXTINF:-1 tvg-id="TelePam.us" tvg-logo="https://i.ibb.co/xMYMyHh/telepammmm.png" group-title="General",Tele Pam (1080p)
+https://watch.haitilive.net/app/2020/telepam/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="TeleSahel.ne" tvg-logo="https://i.imgur.com/vboq428.png" group-title="General",Télé Sahel (576p)
+http://69.64.57.208/telesahel/playlist.m3u8
+#EXTINF:-1 tvg-id="TEVEKA.gp" tvg-logo="https://i.imgur.com/IAtKJZk.png" group-title="General",TEVEKA (1080p) [Not 24/7]
+https://www.teveka.net:8443/show/teveka/index.m3u8
+#EXTINF:-1 tvg-id="TMA.gp" tvg-logo="https://i.imgur.com/1iOAl2j.png" group-title="Music",TMA (1080p)
+http://hls.tmacaraibes.com/live/index.m3u8
+#EXTINF:-1 tvg-id="TV7Colmar.fr" tvg-logo="https://i.imgur.com/kSdGi43.png" group-title="General",TV7 Colmar (576p)
+https://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCBenin.bj" tvg-logo="https://i.imgur.com/Z3xZT2p.png" group-title="Undefined",TVC Bénin (720p)
+https://helga.iptv2022.com/sh/TVC_BENIN/index.m3u8
+#EXTINF:-1 tvg-id="TVT.tg" tvg-logo="https://i.imgur.com/WtXonN9.png" group-title="General",TVT (720p) [Not 24/7]
+http://69.64.57.208/tvt/playlist.m3u8
+#EXTINF:-1 tvg-id="WalfTV.sn" tvg-logo="https://i.imgur.com/WMvSKki.png" group-title="General",Walf TV (360p)
+http://69.64.57.208/walftv/playlist.m3u8
+#EXTINF:-1 tvg-id="APlusIvoire.ci" tvg-logo="https://i.imgur.com/yOW0vyP.png" group-title="Culture",A+ Ivoire (720p)
+http://69.64.57.208/atv/playlist.m3u8
+#EXTINF:-1 tvg-id="ABNAfrica.us" tvg-logo="https://yt3.googleusercontent.com/BhFbqwxiQN89UGI2cpoffye2UuKtblDDUwJHce0fzjpdrMkb0CtKf_42ZVTiLX2Ulwbjey4YZQ=s512-ck-c0x00ffffff-no-rj" group-title="Religieux",ABN Africa (480p)
+https://mediaserver.abnvideos.com/streams/abnafrica.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="##### AFRICA VIP HD #####" tvg-logo="" group-title="AFR| AFRICA VIP HD/4K",##### AFRICA VIP HD #####
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/265852.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR:  MAGIC URBAN" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",AFR:  MAGIC URBAN
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152061.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: AFRICA MAGIC FAMILY HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",AFR: AFRICA MAGIC FAMILY HD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/767687.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: Al Mouritaniya 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",AFR: Al Mouritaniya 4K
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/155863.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: 2STV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",AFR: 2STV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/216688.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: El Mouritania 2" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",AFR: El Mouritania 2
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/155865.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: Mouritania Athagavia TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",AFR: Mouritania Athagavia TV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/155864.m3u8
+#EXTINF:-1 tvg-id="TS" tvg-name="AFR:  Sahel TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",AFR:  Sahel TV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/4305.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: BET" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",AFR: BET
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/216693.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: Eriteria TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",AFR: Eriteria TV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/155810.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: GABON TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",AFR: GABON TV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/216694.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: Hamiltan TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",AFR: Hamiltan TV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/237317.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: MABOKE TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",AFR: MABOKE TV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/415124.m3u8
+#EXTINF:-1 tvg-id="TS" tvg-name="AFR: El Mahadra" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",AFR: El Mahadra
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/4313.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: RTD Djibouti" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",AFR: RTD Djibouti
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/157584.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: SAAB" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",AFR: SAAB
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152348.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: Somaliland TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",AFR: Somaliland TV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/241028.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: STV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",AFR: STV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/308018.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: Universal Somali TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",AFR: Universal Somali TV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/212130.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: 7INFO HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",AFR: 7INFO HD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/529130.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ANG: TPA1" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",ANG: TPA1
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152277.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: SINEMA ZETU HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",AFR: SINEMA ZETU HD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/529728.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BKF: BF1" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",BKF: BF1
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152307.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CABO: TCV CABO" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",CABO: TCV CABO
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152304.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAM: CRTV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",CAM: CRTV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152268.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAM: EQUINOXE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",CAM: EQUINOXE
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152271.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAM: LTM" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",CAM: LTM
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152272.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAM: STV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",CAM: STV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152275.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAM: CANAL 2 INTERNATIONAL" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8402.png?81751" group-title="AFR| AFRICA VIP HD/4K",CAM: CANAL 2 INTERNATIONAL
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/512684.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAM: CRTV SPORT" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8558.png?26507" group-title="AFR| AFRICA VIP HD/4K",CAM: CRTV SPORT
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/512683.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAM: VISION 4 TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",CAM: VISION 4 TV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152276.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COITED: RTI1" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",COITED: RTI1
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152301.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COITED: RTI2" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",COITED: RTI2
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152302.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CON: BOSS BROTHERS TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",CON: BOSS BROTHERS TV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/236777.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CON: VOX TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",CON: VOX TV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152288.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CON: TELE CONGO" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",CON: TELE CONGO
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/522570.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CON: TELE 50" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",CON: TELE 50
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/522571.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CON: TV CONGO" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",CON: TV CONGO
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/522573.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CON: DRTV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",CON: DRTV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/522572.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CON: RTNC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",CON: RTNC
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152285.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DJB: RTD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",DJB: RTD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152261.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GAM: QTV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",GAM: QTV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152237.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GB: GABON 24" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",GB: GABON 24
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152308.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GEN: AFRICA NEWS" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",GEN: AFRICA NEWS
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152046.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GEN: AFRICA24" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",GEN: AFRICA24
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152047.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GEN: AFRICABLE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",GEN: AFRICABLE
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152048.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GEN: ARISE NEWS" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",GEN: ARISE NEWS
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152049.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GEN: MY COMEDY" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",GEN: MY COMEDY
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152051.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GHA: ADOM TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",GHA: ADOM TV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152173.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GHA: ADOME TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",GHA: ADOME TV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152148.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GHA: BEN" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",GHA: BEN
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152145.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GHA: GH CANADA TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",GHA: GH CANADA TV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152152.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GHA: GHANA BROADCASTING" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",GHA: GHANA BROADCASTING
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152154.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GHA: GTV GOV TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",GHA: GTV GOV TV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152157.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GHA: HOPE CHANNEL AFRICA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",GHA: HOPE CHANNEL AFRICA
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152159.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GHA: JOY NEWS" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",GHA: JOY NEWS
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152160.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GHA: JOY PRIME" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",GHA: JOY PRIME
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152161.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GHA: METRO TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",GHA: METRO TV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/216685.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GHA: MFM" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",GHA: MFM
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152163.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GHA: MTA AFRICA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",GHA: MTA AFRICA
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152164.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GHA: OBICE TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",GHA: OBICE TV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152165.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GHA: ROK TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",GHA: ROK TV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152146.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GHA: STUDIO1 TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",GHA: STUDIO1 TV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152168.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GHA: UTV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",GHA: UTV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152170.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GUI: BUZZ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",GUI: BUZZ
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152179.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GUI: CIS TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",GUI: CIS TV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152182.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GUI: ESPACE TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",GUI: ESPACE TV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152180.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GUI: RTG" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",GUI: RTG
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152183.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GUI: TVGE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",GUI: TVGE
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152185.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GUI: WES AFRICA TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",GUI: WES AFRICA TV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152186.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KN: CITIZEN TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",KN: CITIZEN TV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152174.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KN: INOORO TV " tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",KN: INOORO TV 
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152177.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KN: NTV LIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",KN: NTV LIVE
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152175.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KN: SWITCH TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",KN: SWITCH TV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/216705.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MALI: CHERIFLA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",MALI: CHERIFLA
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152187.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MALI: ORTB" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",MALI: ORTB
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152192.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MALI: ORTM" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",MALI: ORTM
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152193.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MALI: ORTM 2 " tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",MALI: ORTM 2 
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152189.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MALI: TM2" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",MALI: TM2
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152195.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MOZ: TV MANA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",MOZ: TV MANA
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152289.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MOZ: TV MANA MAPUTO 1" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",MOZ: TV MANA MAPUTO 1
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152290.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MOZ: TVM1" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",MOZ: TVM1
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152292.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MOZ: TVM2" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",MOZ: TVM2
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152293.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC: BLACK AFRICA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",MUSIC: BLACK AFRICA
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152312.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC: DIGITAL BLACK MUSIC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",MUSIC: DIGITAL BLACK MUSIC
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152315.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC: TRACE AFRICA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",MUSIC: TRACE AFRICA
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152317.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC: TRACE MISIKI" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",MUSIC: TRACE MISIKI
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152318.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC: TRACE NAIJA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",MUSIC: TRACE NAIJA
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152319.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC: TRACE TOCA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",MUSIC: TRACE TOCA
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152320.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NIG: A+" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",NIG: A+
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152064.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NIG: AFRICAN ENTERTAIMENT TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",NIG: AFRICAN ENTERTAIMENT TV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152074.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NIG: AIT" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",NIG: AIT
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152067.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NIG: BRIDETV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",NIG: BRIDETV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152076.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NIG: BIAFRA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",NIG: BIAFRA
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152071.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NIG: DOVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",NIG: DOVE
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152072.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NIG: EMCI TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",NIG: EMCI TV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NIG: AREWA 24" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",NIG: AREWA 24
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152073.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NIG: FUSION PLUS TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",NIG: FUSION PLUS TV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152084.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NIG: GOD TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",NIG: GOD TV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152085.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NIG: HOPE CHANNEL" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",NIG: HOPE CHANNEL
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152087.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NIG: KINGSWORLDINFO" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",NIG: KINGSWORLDINFO
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152089.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NIG: LAGOS TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",NIG: LAGOS TV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152090.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NIG: MORE GRACE TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",NIG: MORE GRACE TV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152096.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NIG: NEW BEGINNING TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",NIG: NEW BEGINNING TV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152097.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NIG: NOLLYWOOD FRANCE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",NIG: NOLLYWOOD FRANCE
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152065.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NIG: MTV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",NIG: MTV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/517603.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NIG: TRACE URBAN" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",NIG: TRACE URBAN
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/517576.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NIG: NOLLYWOOD MOVIES" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",NIG: NOLLYWOOD MOVIES
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152066.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NIG: NTAi" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",NIG: NTAi
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/527382.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NIG: CHANNEL 24" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",NIG: CHANNEL 24
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152101.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NIG: TV CONTINTENTAL" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",NIG: TV CONTINTENTAL
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152104.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NIG: TVC NEWS" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",NIG: TVC NEWS
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152069.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SEN: 2S TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",SEN: 2S TV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152107.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SEN: 7TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",SEN: 7TV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152111.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SEN: A2I TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",SEN: A2I TV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152112.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SEN: A2ITV MUSIC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",SEN: A2ITV MUSIC
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152114.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SEN: AFRICA 7 TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",SEN: AFRICA 7 TV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152115.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SEN: ALAZHARTOUBA TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",SEN: ALAZHARTOUBA TV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152116.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SEN: C3 TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",SEN: C3 TV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152120.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SEN: D24" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",SEN: D24
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152121.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SEN: DTV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",SEN: DTV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152123.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SEN: IMEDIA TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",SEN: IMEDIA TV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/162671.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SEN: LAMP FALL TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",SEN: LAMP FALL TV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152125.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SEN: LOBS TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",SEN: LOBS TV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152126.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SEN: MOURIDE TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",SEN: MOURIDE TV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152127.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SEN: MUSICTV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",SEN: MUSICTV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152128.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SEN: RTJ SENEGAL" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",SEN: RTJ SENEGAL
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152132.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SEN: RTS1" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",SEN: RTS1
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152108.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SEN: RTS2" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",SEN: RTS2
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/162670.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SEN: SEN TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",SEN: SEN TV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152134.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SEN: TFM" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",SEN: TFM
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152137.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SEN: TFM RELIGIONS" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",SEN: TFM RELIGIONS
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152138.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SEN: TMS" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",SEN: TMS
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152139.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SEN: TOUBA MONDE BI" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",SEN: TOUBA MONDE BI
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152140.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SEN: TOUBA TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",SEN: TOUBA TV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152141.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SEN: WALF TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",SEN: WALF TV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152142.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SEN: ASFIYAH TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",SEN: ASFIYAH TV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/585573.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SLN: AMAZE TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",SLN: AMAZE TV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152232.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TCH: TELETCHAD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",TCH: TELETCHAD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152309.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TOG: NEW WORLD MAGAZINE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",TOG: NEW WORLD MAGAZINE
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152297.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TOG: TVT INTERNATIONAL" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",TOG: TVT INTERNATIONAL
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152300.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TZ: IBN TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",TZ: IBN TV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152228.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TZ: IBN TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",TZ: IBN TV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/300366.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TZ: ITV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",TZ: ITV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/300361.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TZ: AFRIVA TV 2" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",TZ: AFRIVA TV 2
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/300365.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TZ: STAR TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",TZ: STAR TV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152230.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TZ: KWANZA " tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",TZ: KWANZA 
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152229.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TZ: AZAM TWO" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",TZ: AZAM TWO
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/516237.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TZ: AZAM SPORT 1" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",TZ: AZAM SPORT 1
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/516238.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TZ: AZAM SPORT 2" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",TZ: AZAM SPORT 2
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/516239.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TZ: AZAM SPORT 3" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",TZ: AZAM SPORT 3
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/516240.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UGA: BBS TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",UGA: BBS TV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UGA: BBS TV " tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",UGA: BBS TV 
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152218.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UGA: BTM TV " tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",UGA: BTM TV 
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152227.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UGA: CITIZEN TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",UGA: CITIZEN TV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152203.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UGA: DELTA HD " tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",UGA: DELTA HD 
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152224.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UGA: GLORIOUS TIMES " tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",UGA: GLORIOUS TIMES 
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152212.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UGA: GUGUDDE TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",UGA: GUGUDDE TV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152215.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UGA: URBAN TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",UGA: URBAN TV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152216.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UGA: NTV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",UGA: NTV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152199.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UGA: U24 TV " tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",UGA: U24 TV 
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152219.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UGA: BUKEDDE 1" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",UGA: BUKEDDE 1
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/600252.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UGA: BUKEDDE 2" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",UGA: BUKEDDE 2
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/600251.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UGA: TV EAST" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",UGA: TV EAST
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/600250.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UGA: WAN LUO" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",UGA: WAN LUO
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/600249.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UGA: SALT TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",UGA: SALT TV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152209.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UGA: UBC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",UGA: UBC
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152211.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UGA: UBC STAR " tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",UGA: UBC STAR 
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152217.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UGA: URBAN TV " tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",UGA: URBAN TV 
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152226.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="##### CANAL+ VIP HD/4K #####" tvg-logo="" group-title="AFR| CANAL+ VIP HD/4K",##### CANAL+ VIP HD/4K #####
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/788599.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: GABON CULTURE" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/GABON-CULTURE.jpg" group-title="AFR| CANAL+ VIP HD/4K",AFR: GABON CULTURE
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299090.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: LUX TV" tvg-logo="http://103.176.90.118/picons/logos/luxetv.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: LUX TV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299089.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: ZEE MAGIC" tvg-logo="http://103.176.90.118/picons/logos/ZEE-MAGIC.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: ZEE MAGIC
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299088.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: DIGITAL CONGO" tvg-logo="http://103.176.90.118/picons/logos/DIGITAL-CONGO.jpeg" group-title="AFR| CANAL+ VIP HD/4K",AFR: DIGITAL CONGO
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299087.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: TELE 50 CONGO" tvg-logo="http://103.176.90.118/picons/logos/TELE-50.jpg" group-title="AFR| CANAL+ VIP HD/4K",AFR: TELE 50 CONGO
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299086.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: MOLIERE TV CONGO" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/MOLIERE-TV.jpg" group-title="AFR| CANAL+ VIP HD/4K",AFR: MOLIERE TV CONGO
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299085.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: MABOKE TV" tvg-logo="http://51.158.145.100/picons/logos/AFRICA/MABOKE.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: MABOKE TV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299084.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: NYOTA" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/NYOTA.jpg" group-title="AFR| CANAL+ VIP HD/4K",AFR: NYOTA
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299083.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: SSM TV" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/SSM-TV.jpg" group-title="AFR| CANAL+ VIP HD/4K",AFR: SSM TV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299082.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: RTNB" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/RTNB.jpg" group-title="AFR| CANAL+ VIP HD/4K",AFR: RTNB
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299081.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: RWANDA TV" tvg-logo="http://103.176.90.118/picons/logos/rwanda.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: RWANDA TV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: CANAL+ SPORT 1" tvg-logo="http://103.176.90.118/picons/logos/canalplussporthd.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: CANAL+ SPORT 1
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299079.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: CANAL+ SPORT 2" tvg-logo="http://103.176.90.118/picons/logos/canalplussport2hd.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: CANAL+ SPORT 2
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299078.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: CANAL+ SPORT 3" tvg-logo="http://103.176.90.118/picons/logos/canalplussport3hd.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: CANAL+ SPORT 3
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299077.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: CANAL+ SPORT 4" tvg-logo="http://103.176.90.118/picons/logos/canalplussport4hd.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: CANAL+ SPORT 4
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299076.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: CANAL+ SPORT 5" tvg-logo="http://103.176.90.118/picons/logos/canalplussporthd.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: CANAL+ SPORT 5
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299075.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: CANAL+ ACTION OUEST" tvg-logo="http://103.176.90.118/picons/logos/canalplus.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: CANAL+ ACTION OUEST
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299074.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: CANAL+ POP CENTR" tvg-logo="http://103.176.90.118/picons/logos/canalplus.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: CANAL+ POP CENTR
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299073.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: CANAL+ CINEMA OUEST" tvg-logo="http://103.176.90.118/picons/logos/canalpluscinema.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: CANAL+ CINEMA OUEST
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299072.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: CANAL+ COMEDIE OUEST" tvg-logo="http://103.176.90.118/picons/logos/canalplus.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: CANAL+ COMEDIE OUEST
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299071.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: CANAL+ ELLES OUEST" tvg-logo="http://103.176.90.118/picons/logos/canalplus.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: CANAL+ ELLES OUEST
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299070.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: CANAL+ FAMILY OUEST" tvg-logo="http://103.176.90.118/picons/logos/canalplusfamily.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: CANAL+ FAMILY OUEST
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299069.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: CANAL+ POP OUEST" tvg-logo="http://103.176.90.118/picons/logos/canalplus.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: CANAL+ POP OUEST
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299068.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: BEIN SPORTS 1" tvg-logo="http://103.176.90.118/picons/logos/beinsports1.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: BEIN SPORTS 1
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299067.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: BEIN SPORTS 2" tvg-logo="http://103.176.90.118/picons/logos/beinsports2.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: BEIN SPORTS 2
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299066.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: BEIN SPORTS 3" tvg-logo="http://103.176.90.118/picons/logos/beinsports3.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: BEIN SPORTS 3
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299065.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: CANAL SPORT 1" tvg-logo="http://103.176.90.118/picons/logos/sport1.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: CANAL SPORT 1
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299064.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: C+ ACTION" tvg-logo="http://103.176.90.118/piconsnew/canalplusaction.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: C+ ACTION
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299063.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: C+ PREMIER" tvg-logo="http://103.176.90.118/piconsnew/canalpluspremiumhd.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: C+ PREMIER
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299062.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: C+ FRISSON" tvg-logo="http://103.176.90.118/picons/logos/frisson.jpg" group-title="AFR| CANAL+ VIP HD/4K",AFR: C+ FRISSON
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299061.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: C+ PREMIERE OUEST" tvg-logo="http://103.176.90.118/piconsnew/canalpluspremiumhd.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: C+ PREMIERE OUEST
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299060.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: C+ PREMIERE CENTRE" tvg-logo="http://103.176.90.118/piconsnew/canalpluspremiumhd.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: C+ PREMIERE CENTRE
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299059.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: C+ POP OUEST" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/CANAL-PLUS-POP-OUEST.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: C+ POP OUEST
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299058.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: 2STV" tvg-logo="http://103.176.90.118/picons/logos/tv2st.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: 2STV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299057.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: 3TV" tvg-logo="http://103.176.90.118/picons/logos/3tv.jpg" group-title="AFR| CANAL+ VIP HD/4K",AFR: 3TV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299056.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: 6TER" tvg-logo="http://103.176.90.118/picons/logos/6ter.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: 6TER
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299055.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: A CPAFR" tvg-logo="http://103.176.90.118/picons/logos/CPA-TV.jpeg" group-title="AFR| CANAL+ VIP HD/4K",AFR: A CPAFR
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299054.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: A PLUS HD" tvg-logo="http://103.176.90.118/picons/logos/aplustv.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: A PLUS HD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299053.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: ALBAYANE" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ALBAYANE.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: ALBAYANE
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299052.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: A+ INTERNATIONAL" tvg-logo="http://103.176.90.118/picons/logos/aplustv.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: A+ INTERNATIONAL
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299051.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: AL MAURITANIYA HD" tvg-logo="http://103.176.90.118/picons/logos/mauritania.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: AL MAURITANIYA HD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299050.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: ARTE" tvg-logo="http://103.176.90.118/picons/logos/ARTE.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: ARTE
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299049.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: AB1" tvg-logo="http://103.176.90.118/picons/logos/ab1.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: AB1
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299048.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: ACTION" tvg-logo="http://103.176.90.118/picons/logos/action.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: ACTION
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299047.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: AFRICABLE" tvg-logo="http://103.176.90.118/picons/logos/AFRICABLE-TV.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: AFRICABLE
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299046.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: ANIMAUX" tvg-logo="http://103.176.90.118/picons/logos/animaux.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: ANIMAUX
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299045.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: AUTOMOTO" tvg-logo="http://103.176.90.118/picons/logos/automototv.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: AUTOMOTO
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299044.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: B-ONE" tvg-logo="http://103.176.90.118/picons/logos/B-ONE.jpeg" group-title="AFR| CANAL+ VIP HD/4K",AFR: B-ONE
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299043.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: BLACK AFRICA" tvg-logo="http://103.176.90.118/picons/logos/BLACK-AFRICA.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: BLACK AFRICA
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299042.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: BET" tvg-logo="http://103.176.90.118/picons/logos/bet.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: BET
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299041.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: C8" tvg-logo="http://103.176.90.118/picons/logos/c8.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: C8
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299040.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: CANAL 2 INTERNATIONAL" tvg-logo="http://103.176.90.118/picons/logos/CANAL2-INTERNATIONAL.jpeg" group-title="AFR| CANAL+ VIP HD/4K",AFR: CANAL 2 INTERNATIONAL
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299039.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: CHERIFLA" tvg-logo="http://103.176.90.118/picons/logos/cheriflatv.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: CHERIFLA
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299038.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: CNEWS" tvg-logo="http://103.176.90.118/picons/logos/cnews.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: CNEWS
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299037.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: CRTV" tvg-logo="http://103.176.90.118/picons/logos/CRTV-.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: CRTV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299036.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: CUISINES" tvg-logo="http://103.176.90.118/picons/logos/cuisineplus.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: CUISINES
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299035.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: EQUINOXE TV" tvg-logo="http://103.176.90.118/picons/logos/EQUINOXE-TV.jpeg" group-title="AFR| CANAL+ VIP HD/4K",AFR: EQUINOXE TV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299034.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: ES1" tvg-logo="http://103.176.90.118/picons/logos/es1.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: ES1
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299033.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: EVASION TV" tvg-logo="http://103.176.90.118/picons/logos/evasion.jpg" group-title="AFR| CANAL+ VIP HD/4K",AFR: EVASION TV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299032.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: FRANCE 2" tvg-logo="http://103.176.90.118/picons/logos/france2.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: FRANCE 2
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299031.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: FRANCE 24" tvg-logo="http://103.176.90.118/picons/logos/france24.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: FRANCE 24
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299030.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: GOSPEL TV" tvg-logo="http://103.176.90.118/picons/logos/gospelchannel.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: GOSPEL TV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299029.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: GABON TV" tvg-logo="http://103.176.90.118/picons/logos/GABON-TV.jpg" group-title="AFR| CANAL+ VIP HD/4K",AFR: GABON TV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299028.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: GAME ONE" tvg-logo="http://103.176.90.118/picons/logos/gameone.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: GAME ONE
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299027.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: GULLI AFRICA" tvg-logo="http://103.176.90.118/picons/logos/gulli.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: GULLI AFRICA
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299026.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: INFOSPORT T" tvg-logo="http://103.176.90.118/picons/logos/INFOSPORT.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: INFOSPORT T
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299025.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: J-ONE" tvg-logo="http://103.176.90.118/picons/logos/jone.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: J-ONE
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299024.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: KALAC" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/KALAC.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: KALAC
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299023.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: LCI" tvg-logo="http://103.176.90.118/picons/logos/lci.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: LCI
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299022.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: LTM CAMEROON" tvg-logo="http://103.176.90.118/picons/logos/LTM-.jpeg" group-title="AFR| CANAL+ VIP HD/4K",AFR: LTM CAMEROON
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299021.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: MAURITANIA ATHAGAVIA TV" tvg-logo="http://103.176.90.118/picons/logos/MAURITANIA-ATHAGAVIA-TV.jpg" group-title="AFR| CANAL+ VIP HD/4K",AFR: MAURITANIA ATHAGAVIA TV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299020.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: MAURITANIAN 2 TV" tvg-logo="http://103.176.90.118/picons/logos/mauritania2.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: MAURITANIAN 2 TV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299019.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: NCI" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/NCI.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: NCI
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299018.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: NOLLYWOOD EPIC" tvg-logo="http://103.176.90.118/picons/logos/nollywoodtv.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: NOLLYWOOD EPIC
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299017.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: NOLLYWOOD HD" tvg-logo="http://103.176.90.118/picons/logos/nollywood.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: NOLLYWOOD HD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299016.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: NOVELAS TV HD" tvg-logo="http://103.176.90.118/picons/logos/novelastv.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: NOVELAS TV HD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299015.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: ERISAT" tvg-logo="http://103.176.90.118/picons/logos/ERISTA-TV.jpeg" group-title="AFR| CANAL+ VIP HD/4K",AFR: ERISAT
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299014.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: M6 INTERNATIONAL" tvg-logo="http://103.176.90.118/picons/logos/m6.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: M6 INTERNATIONAL
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299013.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: MANGAS" tvg-logo="http://103.176.90.118/picons/logos/mangas.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: MANGAS
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299012.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: MTV FRANCE" tvg-logo="http://103.176.90.118/picons/logos/mtvhitshdfrance.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: MTV FRANCE
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299011.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: MTV HITS" tvg-logo="http://103.176.90.118/picons/logos/mtvhits.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: MTV HITS
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299010.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: NATHAN TV" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/NATHAN.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: NATHAN TV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299009.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: NOVELAS TV CPAFR" tvg-logo="http://103.176.90.118/picons/logos/novelastv.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: NOVELAS TV CPAFR
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299008.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: NICKELODEON" tvg-logo="http://103.176.90.118/picons/logos/nickelodeon.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: NICKELODEON
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299007.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: ORTB" tvg-logo="http://103.176.90.118/picons/logos/ortb.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: ORTB
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299006.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: ORTM" tvg-logo="http://103.176.90.118/picons/logos/ortm.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: ORTM
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299005.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: PLANETE CPAFR" tvg-logo="http://103.176.90.118/picons/logos/planet.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: PLANETE CPAFR
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299004.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: RTB" tvg-logo="http://103.176.90.118/picons/logos/rtb.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: RTB
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299003.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: RTG" tvg-logo="http://103.176.90.118/picons/logos/RTG-TV.jpg" group-title="AFR| CANAL+ VIP HD/4K",AFR: RTG
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299002.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: RTI 1" tvg-logo="http://103.176.90.118/picons/logos/rti1.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: RTI 1
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299001.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: RTL 9" tvg-logo="http://103.176.90.118/picons/logos/rtl9.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: RTL 9
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: RTNC" tvg-logo="http://103.176.90.118/picons/logos/RTNC.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: RTNC
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1298999.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: RTS 1" tvg-logo="http://103.176.90.118/picons/logos/rts1.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: RTS 1
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1298998.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: SEN TV" tvg-logo="http://103.176.90.118/picons/logos/SEN-TV.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: SEN TV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1298997.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: TELESUR" tvg-logo="http://103.176.90.118/picons/logos/telesur.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: TELESUR
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1298996.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: TF1" tvg-logo="http://103.176.90.118/picons/logos/tf1.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: TF1
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1298995.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: TFM" tvg-logo="http://103.176.90.118/picons/logos/tfm.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: TFM
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1298994.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: TFX" tvg-logo="http://103.176.90.118/picons/logos/tfx.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: TFX
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1298993.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: TIJI" tvg-logo="http://103.176.90.118/picons/logos/tiji.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: TIJI
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1298992.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: TRACE AFRICA" tvg-logo="http://103.176.90.118/picons/logos/traceafrica.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: TRACE AFRICA
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1298991.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: TRACE AFRICA HD" tvg-logo="http://103.176.90.118/picons/logos/traceafrica.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: TRACE AFRICA HD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1298990.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: TRACE CARIBBEAN FHD" tvg-logo="http://103.176.90.118/picons/logos/tracetv.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: TRACE CARIBBEAN FHD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1298989.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: TRACE LATINA FHD" tvg-logo="http://103.176.90.118/picons/logos/tracelatina.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: TRACE LATINA FHD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1298988.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: TRACE URBAN" tvg-logo="http://103.176.90.118/picons/logos/traceurbanhd.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: TRACE URBAN
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1298987.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: TRACE URBAN FHD" tvg-logo="http://103.176.90.118/picons/logos/traceurbanhd.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: TRACE URBAN FHD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1298986.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: TRACE AFRIKORA" tvg-logo="http://103.176.90.118/picons/logos/TRACE-RIKORA.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: TRACE AFRIKORA
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1298985.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: TV5" tvg-logo="http://103.176.90.118/picons/logos/tv5.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: TV5
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1298984.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: VOIR+" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/VOIR-PLUS.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: VOIR+
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1298983.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: CANAL+ MOTO GP FuLL HD" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/CANAL-PLUS-MOTO-GP.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: CANAL+ MOTO GP FuLL HD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1298982.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: CANAL+ TOP 14 FuLL HD" tvg-logo="http://103.176.90.118/picons/logos/france/CANAL-TOP-14.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: CANAL+ TOP 14 FuLL HD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1298981.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: VOX AFRICA" tvg-logo="http://103.176.90.118/picons/logos/logos/VOX-AFRICA.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: VOX AFRICA
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1298980.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: SUD 1ERE TV" tvg-logo="http://103.176.90.118/picons/logos/logos/SUD-1ERE.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: SUD 1ERE TV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1298979.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: TV 1 RWANDA" tvg-logo="http://103.176.90.118/picons/logos/logos/TV-1-RWANDA.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: TV 1 RWANDA
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1298978.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: EDAN" tvg-logo="http://103.176.90.118/picons/logos/logos/EDAN.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: EDAN
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1298977.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: BANTAMBA" tvg-logo="http://103.176.90.118/picons/logos/BANTAMBA-TV.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: BANTAMBA
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1298976.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: TRACE KITOKO" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/TRACE-KITOKO.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: TRACE KITOKO
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1298975.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: LOVE NATURE" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/TRACE-KITOKO.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: LOVE NATURE
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1298974.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: A+ IVOIRE" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/LOVE-NATURE.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: A+ IVOIRE
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1298973.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: IQRAA EUROPE AFRIQUE" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/IQRAA.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: IQRAA EUROPE AFRIQUE
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1298972.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: IVOIRE CHANNEL TV" tvg-logo="http://51.158.145.100/picons/logos/AFRICA/IVOIRE-CHANNEL.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: IVOIRE CHANNEL TV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1298971.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: AL AFIA TV" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/AL-AFIA.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: AL AFIA TV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1298970.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: MANDE TV" tvg-logo="http://103.176.90.118/picons/logos/logos/MANDE.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: MANDE TV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1298969.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: JOLIBA NEWS" tvg-logo="http://103.176.90.118/picons/logos/logos/JOLIBA-NEWS.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: JOLIBA NEWS
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1298968.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: BURKINA INFO TV" tvg-logo="http://103.176.90.118/picons/logos/logos/BURKINA-INFO.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: BURKINA INFO TV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1298967.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: CANAL 3 BURKINABé" tvg-logo="http://103.176.90.118/picons/logos/logos/CANAL-3-BURKINAB%c3%a9.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: CANAL 3 BURKINABé
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1298966.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: TV TOGO" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/TV-TOGO.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: TV TOGO
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1298965.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: TV MAURITANIE" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/TV-MAURITANIE.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: TV MAURITANIE
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1298964.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: TV7" tvg-logo="http://103.176.90.118/piconsnew/tv7.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: TV7
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1298963.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: TLS AFRICA" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/TLS-AFRICA.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: TLS AFRICA
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1298962.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: CANAL 3 BENIN" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/CANAL-3-BENIN.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: CANAL 3 BENIN
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1298961.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: TVC NEWS" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/TVC-BENINOISE.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: TVC NEWS
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1298960.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: eTELE" tvg-logo="http://103.176.90.118/picons/logos/eTELE.jpeg" group-title="AFR| CANAL+ VIP HD/4K",AFR: eTELE
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1298959.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: RTN TELE SAHEL - NIGER" tvg-logo="http://103.176.90.118/picons/logos/RTN-TELE-SAHEL-NIGER.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: RTN TELE SAHEL - NIGER
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1298958.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: DOUNIA" tvg-logo="http://103.176.90.118/picons/logos/DOUNIA-TV.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: DOUNIA
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1298957.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: BONFEREY" tvg-logo="http://103.176.90.118/picons/logos/BONFEREY-TV.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: BONFEREY
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1298956.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR:  LIFE TV" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/LIFE.png" group-title="AFR| CANAL+ VIP HD/4K",AFR:  LIFE TV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1298955.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: ELECTRON TV" tvg-logo="http://103.176.90.118/picons/logos/ELECTRON-TV.jpeg" group-title="AFR| CANAL+ VIP HD/4K",AFR: ELECTRON TV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1298954.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: SAHARA TV" tvg-logo="http://103.176.90.118/picons/logos/SAHARA-TV.jpeg" group-title="AFR| CANAL+ VIP HD/4K",AFR: SAHARA TV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1298953.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: CRTV SPORT" tvg-logo="http://103.176.90.118/picons/logos/CRTV-SPORT.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: CRTV SPORT
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1298952.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: KC 2 TV" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/KC-2.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: KC 2 TV
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1298951.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: TV1 RWANDA" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/TV1-RWANDA.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: TV1 RWANDA
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1298950.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: AUTHENTIC TV AFR: RWANDA" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/RWANDA.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: AUTHENTIC TV AFR: RWANDA
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1298949.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: BTN RWANDA" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/BTN-RWANDA.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: BTN RWANDA
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1298948.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: TREK" tvg-logo="http://103.176.90.118/picons/logos/trek.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: TREK
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1298947.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: TVT" tvg-logo="http://103.176.90.118/picons/logos/TVT.jpeg" group-title="AFR| CANAL+ VIP HD/4K",AFR: TVT
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1298946.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: USHUAIA TV CPAFR" tvg-logo="http://103.176.90.118/picons/logos/ushuaia.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: USHUAIA TV CPAFR
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1298945.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NIG: NOLLYWOOD FRANCE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",NIG: NOLLYWOOD FRANCE
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152065.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NIG: NOLLYWOOD MOVIES" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",NIG: NOLLYWOOD MOVIES
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/152066.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: NOLLYWOOD HD" tvg-logo="http://103.176.90.118/picons/logos/nollywood.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: NOLLYWOOD HD
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1299016.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFR: A+ IVOIRE" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/LOVE-NATURE.png" group-title="AFR| CANAL+ VIP HD/4K",AFR: A+ IVOIRE
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/1298973.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AF: A+ IVOIRE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12776.png?16355" group-title="FR| CANAL+ AFRICA",AF: A+ IVOIRE
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/293241.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: DAZN PPV 11 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="FR| DAZN LIGUE 1  VIP PPV",FR: DAZN PPV 11 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/924591.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: DAZN PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="FR| DAZN LIGUE 1  VIP PPV",FR: DAZN PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/924600.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: DAZN PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="FR| DAZN LIGUE 1  VIP PPV",FR: DAZN PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://cf.pro-cdn.me:80/live/42ab4b76a1aa/ac95b5b5cb/924600.m3u8

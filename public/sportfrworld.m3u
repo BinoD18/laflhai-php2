@@ -1,0 +1,77 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RTI1.ci" tvg-logo="https://i.imgur.com/TybQZQS.png" group-title="General",RTI 1 (1080p) [Not 24/7]
+https://cdnapisec.kaltura.com/p/6234172/sp/623417200/playManifest/entryId/1_vqff78xz/protocol/https/format/applehttp/flavorIds/1_epbh9ytc,1_efdyy397,1_xq30jc8o,1_mlyqlrti,1_a3ltriqi,1_98yeplhp,1_0kk4jjov/a.m3u8?uiConfId=56536812&playSessionId=80dbcad1-924a-bb15-89ea-c9070e8019a6:d7238b2a-124e-9505-fba0-0459fd5a2a76&referrer=aHR0cHM6Ly9ydGlwbGF5LmNpL2RpcmVjdA==&clientTag=html5:v7.221
+#EXTINF:-1 tvg-id="RTI2.ci" tvg-logo="https://i.imgur.com/73ueXrp.png" group-title="General",RTI 2 (1080p) [Not 24/7]
+https://cdnapisec.kaltura.com/p/6234172/sp/623417200/playManifest/entryId/1_tk6zpgcs/protocol/https/format/applehttp/flavorIds/1_rjuvskgv,1_ib1i89bm,1_zwcda1bv,1_2twu0j11,1_c141vxce,1_hsne3uel,1_gw1tkzbe/a.m3u8?uiConfId=56536812&playSessionId=3d1991fa-fc42-5ef3-4bbe-6d80fe52cd7a:4f718ea7-7524-5215-6869-be62834046da&referrer=aHR0cHM6Ly9ydGlwbGF5LmNpL2RpcmVjdA==&clientTag=html5:v7.221
+#EXTINF:-1 tvg-id="RTILa3.ci" tvg-logo="https://i.imgur.com/HdNshgF.png" group-title="Music;Sports",RTI La 3 (1080p) [Not 24/7]
+https://cdnapisec.kaltura.com/p/6234172/sp/623417200/playManifest/entryId/1_hja36c90/protocol/https/format/applehttp/flavorIds/1_iixjpwe3,1_t984h7gb,1_37uuossq,1_7onwnw0c,1_ukmx89lr,1_spyvi57i,1_b8mpbxy4/a.m3u8?uiConfId=56536812&playSessionId=fea3c2d5-5b3b-74a9-ac17-1f5d6f2d2e57:cd36070f-5a4c-a345-8981-54615542bde6&referrer=aHR0cHM6Ly9ydGlwbGF5LmNpL2RpcmVjdA==&clientTag=html5:v7.221
+#EXTINF:-1 tvg-id="" tvg-name="AF: NCI" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12776.png?16355" group-title="FR| CANAL+ AFRICA",AF: NCI
+https://cdnapisec.kaltura.com/p/5571652/sp/557165200/playManifest/entryId/1_2gnrfyb6/protocol/https/format/applehttp/flavorIds/1_ei5378sr,1_3ahuyat1,1_hbf7spgv,1_16qga8l7,1_8jv5h53u,1_9wpnjnt6/ks/djJ8NTU3MTY1MnwW6gGCJbieZBrl1RJV0gsDcqFrFOHcErt2COdts7gVFaCfze-tPQObOMtxHNvX0PWR1mqwRtrnVUXezWHyI5Zhr4RnzouvOF9WyRgmp3zXn4p-MZoi6T26RAGZKp3BQf2WmMThwbOGLUQmv9uco9PP/a.m3u8?playSessionId=51909cbb-f7c4-e3f5-1812-9ee79fad8132:a703802b-a2c5-3ad2-8639-b37bea297cb4&referrer=aHR0cHM6Ly9uY2kuY2kvZGlyZWN0&clientTag=html5:v7.225
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@FRANCE ➾  SPORT",FR | RMC SPORT 1 SD
+http://185.160.192.64:80/live/mangin15/85784/39589.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@FRANCE ➾  SPORT",FR | RMC SPORT 2 SD
+http://185.160.192.64:80/live/mangin15/85784/39588.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@FRANCE ➾  SPORT",FR | RMC SPORT LIVE 2 FHD
+http://185.160.192.64:80/live/mangin15/85784/13701.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@FRANCE ➾  SPORT",FR | RMC SPORT LIVE 3 FHD
+http://185.160.192.64:80/mangin15/live/85784/13700.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@FRANCE ➾  SPORT",FR | RMC SPORT LIVE 4 FHD
+http://185.160.192.64:80/mangin15/live/85784/13699.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@FRANCE ➾  SPORT",FR | BEIN SPORTS 1 HD
+http://185.160.192.64:80/live/mangin15/85784/14170.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@FRANCE ➾  SPORT",FR | BEIN SPORTS 2 HD
+http://185.160.192.64:80/live/mangin15/85784/14169.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@FRANCE ➾  SPORT",FR | BEIN SPORTS 3 HD
+http://185.160.192.64:80/live/mangin15/85784/14163.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@FRANCE ➾  SPORT",FR | BEIN SPORTS MAX 4 HD
+http://185.160.192.64:80/live/mangin15/85784/95.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@FRANCE ➾  SPORT",FR | BEIN SPORTS MAX 5 HD
+http://185.160.192.64:80/live/mangin15/85784/39882.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@FRANCE ➾  SPORT",FR | CANAL+ PREMIER LEAGUE HD
+http://185.160.192.64:80/live/mangin15/85784/116520.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@FRANCE ➾  SPORT",FR | CANAL+ TOP 14 RUGBY HD
+http://185.160.192.64:80/live/mangin15/85784/116522.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@FRANCE ➾  SPORT",FR | OL TV FHD
+http://185.160.192.64:80/live/mangin15/85784/13842.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@FRANCE ➾  SPORT",FR | EQUIDIA HD
+http://185.160.192.64:80/live/mangin15/85784/14012.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@FRANCE ➾  SPORT",FR | TRACE SPORT STAR FHD
+http://185.160.192.64:80/live/mangin15/85784/97057.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@FRANCE ➾  SPORT",FR | MOTORSPORT HD
+http://185.160.192.64:80/live/mangin15/85784/13782.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@FRANCE ➾  SPORT",FR | SPORT EN FRANCE
+http://185.160.192.64:80/live/mangin15/85784/120240.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@FRANCE ➾  SPORT",FR | NBA TV
+http://185.160.192.64:80/live/mangin15/85784/46216.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@FRANCE ➾  SPORT",FR | WWE HD
+http://185.160.192.64:80/live/mangin15/85784/303579.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@FRANCE ➾  SPORT",FR | EXTREME SPORTS
+http://185.160.192.64:80/live/mangin15/85784/13740.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@FRANCE ➾  SPORT",FR | AUTOMOTO  FHD
+http://185.160.192.64:80/live/mangin15/85784/1035.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@FRANCE ➾  SPORT",FR | EUROSPORT 1 HD
+http://185.160.192.64:80/live/mangin15/85784/14011.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@FRANCE ➾  SPORT",FR | EUROSPORT 2 HD
+http://185.160.192.64:80/live/mangin15/85784/14010.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@FRANCE ➾  SPORT",FR | RMC TALK SPORT HD
+http://185.160.192.64:80/live/mangin15/85784/308893.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@FRANCE ➾  SPORT",FR | INFOSPORT + HD
+http://185.160.192.64:80/live/mangin15/85784/14006.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@FRANCE ➾  SPORT",FR | UFC TV FHD
+http://185.160.192.64:80/live/mangin15/85784/288954.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@FRANCE ➾  SPORT",FR |  LIGUE 1+ MULTIPLEX  HD (ONLY ON LIVE)
+http://185.160.192.64:80/live/mangin15/85784/143663.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@FRANCE ➾  SPORT",FR | CANAL+ SPORT 360 HD
+http://185.160.192.64:80/live/mangin15/85784/181486.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@FRANCE ➾  SPORT",FR | CANAL+ FOOT HD
+http://185.160.192.64:80/live/mangin15/85784/181485.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@FRANCE ➾  SPORT",FR | CANAL+ SPORT HD
+http://185.160.192.64:80/live/mangin15/85784/14161.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@FRANCE ➾  SPORT",FR | CANAL+ LIVE 1
+http://185.160.192.64:80/live/mangin15/85784/327312.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@FRANCE ➾  SPORT",FR | CANAL+ LIVE 2
+http://185.160.192.64:80/live/mangin15/85784/327311.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@FRANCE ➾  SPORT",FR | CANAL+ LIVE 3
+http://185.160.192.64:80/live/mangin15/85784/327310.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@FRANCE ➾  SPORT",FR | LEQUIPE 21 HD
+http://185.160.192.64:80/live/mangin15/85784/14005.m3u8

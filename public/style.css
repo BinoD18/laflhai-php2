@@ -1,0 +1,166 @@
+/* Loading Screen */
+#loading-screen {
+  width: 100%;
+  height: 100vh;
+  background: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  z-index: 3000;
+}
+
+/* Overlay */
+#overlay {
+  position: fixed;
+  top:0; left:0;
+  width:100%; height:100%;
+  background: rgba(0,0,0,0.4);
+  backdrop-filter: blur(2px);
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.5s ease;
+  z-index: 2000;
+}
+#overlay.show {
+  opacity: 1;
+  visibility: visible;
+}
+
+/* Sidebars flottantes avec glow */
+#sidebar-left, #sidebar-right {
+  position: fixed;
+  top: 15px;
+  width: 300px;
+  max-height: calc(100% - 30px);
+  padding: 20px;
+  background: transparent;
+  color: #000;
+  overflow-y: auto;
+  z-index: 2001;
+  transition: transform 0.5s cubic-bezier(0.68,-0.55,0.27,1.55), box-shadow 0.3s ease;
+  backdrop-filter: blur(5px);
+  border-radius: 8px;
+  box-shadow: 0 0 15px #ff00ff, 0 0 30px #ff00ff, 0 0 45px #ff00ff;
+}
+
+#sidebar-left { left: 15px; transform: translateX(-100%); }
+#sidebar-left.active { transform: translateX(0); box-shadow: 0 0 25px #ff00ff, 0 0 45px #ff00ff, 0 0 60px #ff00ff; }
+
+#sidebar-right { right: 15px; transform: translateX(100%); }
+#sidebar-right.active { transform: translateX(0);  }
+
+/* Playlist items avec glow et slide+rotation au survol */
+#sidebar-left li, #sidebar-right li {
+  background: transparent;
+  color: #aab3ff;
+  margin-bottom: 5px;
+  border-radius: 4px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+#sidebar-left li:hover, #sidebar-right li:hover {
+  background: transparent;
+  transform: translateX(5px) scale(1.05) rotate(2deg);
+  box-shadow: 0 0 8px #ff00ff, 0 0 15px #ff00ff;
+}
+
+/* Sidebars h5 */
+#sidebar-left h5, #sidebar-right h5 {
+  text-shadow: 0 0 6px #ff00ff;
+}
+
+/* Buttons flottants avec glow + slide/rotation */
+.sidebar-btn {
+  position: fixed;
+  top: 15px;
+  padding: 12px 16px;
+  font-size: 20px;
+  border-radius: 6px;
+  color: #fff;
+  background-color: transparent;
+  border: none;
+  z-index: 2002;
+  cursor: pointer;
+  transition: transform 0.5s cubic-bezier(0.68,-0.55,0.27,1.55), box-shadow 0.3s ease;
+ box-shadow: 0 0 10px #007bff, 0 0 20px #007bff, 0 0 30px #007bff;*/
+}
+
+.sidebar-btn:hover {
+  transform: translateY(-5px) rotate(-5deg) scale(1.15);
+  box-shadow: 0 0 15px #00f, 0 0 25px #00f, 0 0 40px #00f;
+}
+
+.sidebar-btn:active {
+  transform: translateY(2px) rotate(2deg) scale(1.1);
+}
+
+#toggle-left { left:15px; }
+#toggle-right { right:15px; }
+
+/* Player */
+#player-container {
+  width: 100%;
+  height: calc(100vh - 70px); /* garde un espace pour boutons/date/logo */
+  /*height: 100vh;*/
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: black;
+}
+#tv-screen { width: 100%; height: 100%; max-height: 100%; background:black; position:relative; z-index:1; box-shadow: 0 0 25px #ff00ff, 0 0 45px #ff00ff, 0 0 60px #ff00ff;}
+#player { width: 100%; height: 100%; max-height: 100%;
+  object-fit: contain; /* garde les proportions sans couper */}
+
+/* Mobile */
+@media (max-width: 768px) {
+  #sidebar-left, #sidebar-right {
+    width: 80%;
+    max-height: 90%;
+    top: 5%;
+    padding: 15px;
+    border-radius: 10px;
+    transform: translateX(-110%);
+  }
+  #sidebar-left.active { transform: translateX(0); }
+  #sidebar-right { transform: translateX(110%); }
+  #sidebar-right.active { transform: translateX(0); }
+
+  .sidebar-btn {
+    padding: 10px 14px;
+    font-size: 18px;
+    top: 10px;
+  }
+
+  #player-container { height: 100vh; }
+}
+/* Bloc central logo + date */
+#center-logo-date {
+  position: fixed;
+  top: 15px;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  z-index: 2002;
+  background: transparent;
+  padding: 6px 12px;
+  border-radius: 8px;
+  backdrop-filter: blur(5px);
+  box-shadow: 0 0 10px #ff00ff, 0 0 20px #ff00ff;
+}
+
+/* Logo */
+#center-logo {
+  height: 32px;
+  width: 32px;
+  border-radius: 50%;
+}
+
+/* Date */
+#current-date {
+  color: white;
+  font-weight: bold;
+  font-size: 16px;
+  text-shadow: 0 0 5px #ff00ff;
+}

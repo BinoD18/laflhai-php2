@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: laflhai-php2
+    env: native
+    buildCommand: echo "Build OK"
+    startCommand: php -S 0.0.0.0:$PORT -t public
