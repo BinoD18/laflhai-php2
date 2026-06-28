@@ -25,31 +25,6 @@ https://samson.streamerr.co:8081/shogun/index.m3u8
 https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Al Aoula Laâyoune (360p)
 https://snrtworker.kharazbelaid.workers.dev/?id=alaoula.m3u8
-#EXTINF:-1 tvg-id="ORTM2.ml@SD",ORTM 2 (720p)
-http://69.64.57.208/tm2/playlist.m3u8
-#EXTINF:-1 tvg-id="RTS1.sn@SD",RTS 1 (720p)
-http://69.64.57.208/rts1/playlist.m3u8
-#EXTINF:-1 tvg-id="RTS2.sn@SD",RTS 2 (720p)
-http://69.64.57.208/rts2/playlist.m3u8
-#EXTINF:-1 tvg-id="SenTV.sn@SD",Sen TV (360p)
-http://69.64.57.208/sentv/playlist.m3u8
-#EXTINF:-1 tvg-id="SenewebTV.sn@SD",Seneweb TV [Geo-blocked]
-https://vdo2.pro-fhi.net:3297/stream/play.m3u8
-#EXTINF:-1 tvg-id="RTG1.gn@SD",RTG 1 (360p)
-http://69.64.57.208/rtg/playlist.m3u8
-#EXTINF:-1 tvg-id="TVT.tg@SD",TVT (720p) [Not 24/7]
-http://69.64.57.208/tvt/playlist.m3u8
-#EXTINF:-1 tvg-id="TVCBenin.bj@SD",TVC Bénin (720p)
-https://live.tvcbenin.com/direct/729c37a1d3319ee21991227b1f84c687.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="ORTBTV.bj@SD",ORTB TV (720p)
-http://69.64.57.208/ortb/playlist.m3u8
-#EXTINF:-1 tvg-id="TeleSahel.ne@SD",Tele Sahel (1080p)
-https://mediaserver1.castpin.com/hls/telesahel/index.m3u8
-#EXTINF:-1 tvg-id="Nigbati.ng@SD",Nigbati (720p) [Not 24/7]
-https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_023/Stream/playlist.m3u8
-#EXTINF:-1 tvg-id="CRTV.cm@SD",CRTV (360p)
-http://69.64.57.208/crtv/playlist.m3u8#EXTINF:-1 tvg-id="CRTV.cm@SD",CRTV (360p)
-http://69.64.57.208/crtv/playlist.m3u8
 #EXTINF:-1 tvg-id="Medi1TVAfrique.ma" tvg-logo="https://i.imgur.com/5S3er4e.png" group-title="News",Medi 1 TV Afrique (1080p) [Not 24/7]
 https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist.m3u8
 #EXTINF:-1 tvg-id="MakkahTV.sa" tvg-logo="https://i.imgur.com/PRPcOi0.png" group-title="Religious",Makkah TV (576p)
@@ -84,6 +59,31 @@ https://stream.berosat.live:19360/tv-capitale-tream/tv-capitale-tream.m3u8
 http://41.223.30.230/PASSIONTV/index.m3u8
 #EXTINF:-1 tvg-id="7Info.ci@SD",7 Info
 https://video1.getstreamhosting.com:1936/8042/8042/playlist.m3u8
+#EXTINF:-1 tvg-id="ORTM2.ml@SD",ORTM 2 (720p)
+http://69.64.57.208/tm2/playlist.m3u8
+#EXTINF:-1 tvg-id="RTS1.sn@SD",RTS 1 (720p)
+http://69.64.57.208/rts1/playlist.m3u8
+#EXTINF:-1 tvg-id="RTS2.sn@SD",RTS 2 (720p)
+http://69.64.57.208/rts2/playlist.m3u8
+#EXTINF:-1 tvg-id="SenTV.sn@SD",Sen TV (360p)
+http://69.64.57.208/sentv/playlist.m3u8
+#EXTINF:-1 tvg-id="SenewebTV.sn@SD",Seneweb TV [Geo-blocked]
+https://vdo2.pro-fhi.net:3297/stream/play.m3u8
+#EXTINF:-1 tvg-id="RTG1.gn@SD",RTG 1 (360p)
+http://69.64.57.208/rtg/playlist.m3u8
+#EXTINF:-1 tvg-id="TVT.tg@SD",TVT (720p) [Not 24/7]
+http://69.64.57.208/tvt/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCBenin.bj@SD",TVC Bénin (720p)
+https://live.tvcbenin.com/direct/729c37a1d3319ee21991227b1f84c687.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="ORTBTV.bj@SD",ORTB TV (720p)
+http://69.64.57.208/ortb/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleSahel.ne@SD",Tele Sahel (1080p)
+https://mediaserver1.castpin.com/hls/telesahel/index.m3u8
+#EXTINF:-1 tvg-id="Nigbati.ng@SD",Nigbati (720p) [Not 24/7]
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_023/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CRTV.cm@SD",CRTV (360p)
+http://69.64.57.208/crtv/playlist.m3u8#EXTINF:-1 tvg-id="CRTV.cm@SD",CRTV (360p)
+http://69.64.57.208/crtv/playlist.m3u8
 #EXTINF:-1 tvg-id="BurkinaInfoTV.bf@SD",Burkina Info TV (540p)
 http://69.64.57.208/burkinainfo/index.m3u8
 #EXTINF:-1 tvg-id="RTB3.bf@SD",RTB 3
@@ -146,8 +146,6 @@ http://69.64.57.208/france2/mono.m3u8
 http://69.64.57.208/france5/mono.m3u8
 #EXTINF:-1 tvg-id="France24.fr@Arabic",France 24 Arabic (720p)
 https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_2300.m3u8
-#EXTINF:-1 tvg-id="France24.fr@French",France 24 French (720p)
-https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_2300.m3u8
 #EXTINF:-1 tvg-id="Francophonie24.fr@SD",Francophonie (360p)
 http://mv2.tvfrancophonie.org/live/Stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="Francophonie24.fr@SD",Francophonie24 (1080p)
@@ -285,8 +283,6 @@ http://41.205.77.102/CANALJ/index.m3u8
 http://41.205.77.102/TIJI/index.m3u8
 #EXTINF:-1 tvg-id="Gulli.fr@HD",Gulli HD (720p)
 http://41.205.77.102/GULLI/index.m3u8
-#EXTINF:-1 tvg-id="DisneyJr.fr@SD",Disney Jr. (576p)
-http://41.205.77.102/DISNEY-JUNIOR/index.m3u8
 #EXTINF:-1 tvg-id="Mezzo.fr@SD",Mezzo (1080p)
 https://live-3.otcnet.ru/Mezzo/index.m3u8
 #EXTINF:-1 tvg-chno="13" tvg-id="BFMTV.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png" group-title="TNT",BFM TV
@@ -370,27 +366,5 @@ https://livevideo.vedge.infomaniak.com/livecast/ik:bblackcaribbean/manifest.m3u8
 https://livevideo.vedge.infomaniak.com/livecast/ik:bblackclassik/manifest.m3u8
 #EXTINF:-1 tvg-chno="298" tvg-id="MadrasFMTV.fr" tvg-logo="https://freebox.cdn.scw.iliad.fr/medium_Logo_Madras_02_f8b735e803.png" group-title="Musique",MADRAS FM TV
 https://edge17.vedge.infomaniak.com/livecast/ik:madrasfmtv/manifest.m3u8
-#EXTINF:-1 tvg-chno="328" tvg-id="TeleLyonMetropole.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/img300BFMlyoncoul.png" group-title="Régionale",BFM LYON
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_LYON/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-chno="329" tvg-id="BFMGrandLille.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/img300BFMlillecoul.png" group-title="Régionale",BFM GRAND LILLE
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLILLE/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-chno="330" tvg-id="BFMGrandLittoral.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/img300BFMlittoralcoul.png" group-title="Régionale",BFM GRAND LITTORAL
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLITTORAL/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-chno="331" tvg-id="ProvenceAzur.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/img300BFMmarseillecoul.png" group-title="Régionale",BFM MARSEILLE PROVENCE
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_MARSEILLEPROV/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-chno="332" tvg-id="AzurTV.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/img300BFMnicecoul.png" group-title="Régionale",BFM NICE COTE D'AZUR
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NICECOTEDAZUR/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-chno="333" tvg-id="VarAzur.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/img300BFMtouloncoul.png" group-title="Régionale",BFM TOULON VAR
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TOULONVAR/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-chno="334" tvg-id="DiciTvAlpes.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/img300BFMdicialpescoul.png" group-title="Régionale",BFM DICI ALPES DU SUD
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_ALPESDUSUD/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-chno="335" tvg-id="DiciTvProvence.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/img300BFMdiciHPcoul.png" group-title="Régionale",BFM DICI HAUTE PROVENCE
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_HAUTEPROVENCE/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-chno="336" tvg-id="Alsace20.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/img300BFMalsacecoul.png" group-title="Régionale",BFM ALSACE
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_ALSACE/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-chno="337" tvg-id="LaChaineNormande.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/img300BFMnormandiecoul.png" group-title="Régionale",BFM NORMANDIE
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NORMANDIE/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-chno="904" tvg-id="ViaGrandParis.fr" tvg-logo="https://freebox.cdn.scw.iliad.fr/large_Le_Figaro_TV_Id_F_RVB_1b0ecffb64.png" group-title="Locale",LE FIGARO IDF
-https://static.lefigaro.fr/secom/tnt.m3u8
 #EXTINF:-1 tvg-chno="910" tvg-id="IDF1.fr" tvg-logo="https://freebox.cdn.scw.iliad.fr/large_20_minutes_tv_idf_2025_svg_102a63bdb4.png" group-title="Locale",20 MINUTES TV IDF
 https://live-20minutestv.digiteka.com/1961167769/index.m3u8
