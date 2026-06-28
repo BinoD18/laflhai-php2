@@ -25,6 +25,31 @@ https://samson.streamerr.co:8081/shogun/index.m3u8
 https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Al Aoula Laâyoune (360p)
 https://snrtworker.kharazbelaid.workers.dev/?id=alaoula.m3u8
+#EXTINF:-1 tvg-id="ORTM2.ml@SD",ORTM 2 (720p)
+http://69.64.57.208/tm2/playlist.m3u8
+#EXTINF:-1 tvg-id="RTS1.sn@SD",RTS 1 (720p)
+http://69.64.57.208/rts1/playlist.m3u8
+#EXTINF:-1 tvg-id="RTS2.sn@SD",RTS 2 (720p)
+http://69.64.57.208/rts2/playlist.m3u8
+#EXTINF:-1 tvg-id="SenTV.sn@SD",Sen TV (360p)
+http://69.64.57.208/sentv/playlist.m3u8
+#EXTINF:-1 tvg-id="SenewebTV.sn@SD",Seneweb TV [Geo-blocked]
+https://vdo2.pro-fhi.net:3297/stream/play.m3u8
+#EXTINF:-1 tvg-id="RTG1.gn@SD",RTG 1 (360p)
+http://69.64.57.208/rtg/playlist.m3u8
+#EXTINF:-1 tvg-id="TVT.tg@SD",TVT (720p) [Not 24/7]
+http://69.64.57.208/tvt/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCBenin.bj@SD",TVC Bénin (720p)
+https://live.tvcbenin.com/direct/729c37a1d3319ee21991227b1f84c687.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="ORTBTV.bj@SD",ORTB TV (720p)
+http://69.64.57.208/ortb/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleSahel.ne@SD",Tele Sahel (1080p)
+https://mediaserver1.castpin.com/hls/telesahel/index.m3u8
+#EXTINF:-1 tvg-id="Nigbati.ng@SD",Nigbati (720p) [Not 24/7]
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_023/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CRTV.cm@SD",CRTV (360p)
+http://69.64.57.208/crtv/playlist.m3u8#EXTINF:-1 tvg-id="CRTV.cm@SD",CRTV (360p)
+http://69.64.57.208/crtv/playlist.m3u8
 #EXTINF:-1 tvg-id="Medi1TVAfrique.ma" tvg-logo="https://i.imgur.com/5S3er4e.png" group-title="News",Medi 1 TV Afrique (1080p) [Not 24/7]
 https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist.m3u8
 #EXTINF:-1 tvg-id="MakkahTV.sa" tvg-logo="https://i.imgur.com/PRPcOi0.png" group-title="Religious",Makkah TV (576p)
