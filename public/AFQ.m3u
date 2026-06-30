@@ -368,3 +368,7 @@ https://livevideo.vedge.infomaniak.com/livecast/ik:bblackclassik/manifest.m3u8
 https://edge17.vedge.infomaniak.com/livecast/ik:madrasfmtv/manifest.m3u8
 #EXTINF:-1 tvg-chno="910" tvg-id="IDF1.fr" tvg-logo="https://freebox.cdn.scw.iliad.fr/large_20_minutes_tv_idf_2025_svg_102a63bdb4.png" group-title="Locale",20 MINUTES TV IDF
 https://live-20minutestv.digiteka.com/1961167769/index.m3u8
+#EXTINF:-1 tvg-id="M6.fr@HD",M6 (1080p)	
+http://cdn.haititivi.com/M6-HD/index.m3u8
+#EXTINF:-1 tvg-id="Fox.us@East",Fox (540p)
+http://84.17.50.102/fox/index.m3u8
